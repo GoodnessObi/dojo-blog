@@ -1,4 +1,4 @@
-# evaluate
+# dojo blog
 ## Introduction
 Dojo blog is a blog site that allows you to perform basic functions add new blogposts, view the details of a blogpost and delete a blogpost.
 
